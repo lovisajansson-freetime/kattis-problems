@@ -6,7 +6,7 @@ import java.util.stream.IntStream;
 
 
 public class problemC {
-
+//find all combiantions and sums of given numbers, check if target is present in sum, if not find the closest one.
     public static void main(String args[]) {
         Scanner scanner = new Scanner(System.in);
         ArrayList<String> weightsStrings = new ArrayList<>();
